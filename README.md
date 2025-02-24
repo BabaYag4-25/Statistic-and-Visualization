@@ -11,10 +11,13 @@ This project analyzes sales data to derive marketing strategies using Python. It
 - Statistical analysis (T-tests, correlations, etc.)
 - Visualizations using Matplotlib & Seaborn
 - Business insights and recommendations
+
+  
 🛠️ Tech Stack
 - Python: pandas, numpy, matplotlib, seaborn, scipy
 - Data Visualization: Tableau
 - Jupyter Notebook
+
+  
 📂 Dataset
 The dataset (shopping_trends.csv) is loaded into a Pandas DataFrame for analysis.
-
